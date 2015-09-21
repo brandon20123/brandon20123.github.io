@@ -3,14 +3,13 @@
 
 html{
 	background-color: rgba(51,255,255);
-	background-image:url(images/background.jpg);
 	width: auto;
 	height: auto;
 	text-align: center;
 	margin: 0%;
 }
 body {
-	background-image:url(/images/background.jpg);
+	background-image:url(/images/background-3.jpg);
 	positionung: absolute;
 	top: 0;
 	bottom: 0;
@@ -28,6 +27,7 @@ body {
 
 .header h1 {
 	text-align: center;
+	color: #FFF;
 }
 
 .header ul {
@@ -42,15 +42,18 @@ body {
 
 .header a {
 	text-decoration: none;
+	color:#FFF;
 }
 
 .Aboutme {
 	float: left;
 	max-width: 80px;
+	color:#FFF;
 }
 
 .contact {
 	float: right;
 	margin-top: 50px;
 	margin-right: 25px;
+	color: #FFF;
 }
